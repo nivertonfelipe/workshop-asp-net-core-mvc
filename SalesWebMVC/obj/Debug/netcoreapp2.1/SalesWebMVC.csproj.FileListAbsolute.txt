@@ -31,3 +31,7 @@ D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMV
 D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
+D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
