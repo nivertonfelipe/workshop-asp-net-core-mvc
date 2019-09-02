@@ -35,3 +35,4 @@ D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\View
 D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
 D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
 D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
