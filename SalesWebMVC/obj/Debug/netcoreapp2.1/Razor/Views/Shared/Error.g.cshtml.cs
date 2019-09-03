@@ -15,7 +15,7 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
     using SalesWebMVC.Models.ViewModels;
 #line 1 "D:\CURSO C#\MODULO 17\SalesWebMVC\SalesWebMVC\Views\_ViewImports.cshtml"
-    using SalesWebMVC;
+using SalesWebMVC;
 
 #line default
 #line hidden
